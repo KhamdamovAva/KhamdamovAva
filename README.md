@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mirzoavaz
 
-I am a web developer with a strong interest in creating high-quality and innovative solutions. My skill set includes proficiency in HTML, CSS/SASS, JavaScript, React.js, along with experience using tools like Figma, GitHub, Tailwind, and Bootstrap. I am dedicated to continuous learning and professional development, consistently exploring new technologies and best practices in web development.
+I am a web developer. My skill set includes proficiency in HTML, CSS/SASS, JavaScript, React.js, along with experience using tools like Figma, GitHub, Tailwind, and Bootstrap. I am dedicated to continuous learning and professional development, consistently exploring new technologies and best practices in web development.
 
 I thrive on tackling challenging tasks and relish opportunities to apply my knowledge to real-world projects that deliver tangible value. My goal is to grow as a professional, contributing to impactful projects while continuously improving on my path toward excellence.
 
