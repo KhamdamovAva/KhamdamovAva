@@ -4,12 +4,6 @@ I am a web developer. My skill set includes proficiency in HTML, CSS/SASS, JavaS
 
 I thrive on tackling challenging tasks and relish opportunities to apply my knowledge to real-world projects that deliver tangible value. My goal is to grow as a professional, contributing to impactful projects while continuously improving on my path toward excellence.
 
-### My hobbies
-
-- 💪 I love coding and creating beautiful websites
-- 🎨 I love traveling, hiking in the mountains, and enjoying life
-- 🚀 I’m always exploring new technologies and improving my skills
-
 <br/>
 
 ### 🧰 Languages and Tools:
