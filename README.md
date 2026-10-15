@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mirzoavaz
 
-Frontend developer with **2+ year of commercial experience**. I build fast, responsive and accessible interfaces with React, TypeScript and Tailwind CSS - from landing pages to web apps.
+Frontend developer with **2+ years of commercial experience**. I build fast, responsive and accessible interfaces with React, TypeScript and Tailwind CSS - from landing pages to web apps.
 
 I use **AI tools in my daily workflow** (Claude Code, ChatGPT) for prototyping, refactoring, code review and debugging. This helps me ship features faster while keeping the code clean and maintainable.
 
@@ -15,14 +15,5 @@ I enjoy challenging tasks and real-world projects that deliver tangible value, a
 ### 🧰 Languages and Tools
 
 <p>
-  <img alt="TypeScript" widtivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="JavaScript" widthons/javascript/javascript-pl
-  <img alt="React" width="30"src="https://cdn.jsdelivr.neeact/react-original.svg" />
-  <img alt="Next.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img alt="Vite" width="30" src="https://cdn.jsdelivr.net  <img alt="Tailwind CSS" wielivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="HTML" width="30" src="https://cdn.jsdelivr.netml5/html5-plain.svg" />
-  <img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />          <img alt="SASS" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img alt="Bootstrap" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-origi
-  <img alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Figma" width="30src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,html,css,sass,bootstrap,git,figma" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, HTML, CSS, SASS, Bootstrap, Git, Figma" />
 </p>
