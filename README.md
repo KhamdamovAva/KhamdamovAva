@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Mirzoavaz
 
-Frontend developer with **1+ year of commercial experience**. I build fast, responsive and accessible interfaces with React, TypeScript and Tailwind CSS — from landing pages to web apps.
+Frontend developer with **2+ year of commercial experience**. I build fast, responsive and accessible interfaces with React, TypeScript and Tailwind CSS - from landing pages to web apps.
 
 I use **AI tools in my daily workflow** (Claude Code, ChatGPT) for prototyping, refactoring, code review and debugging. This helps me ship features faster while keeping the code clean and maintainable.
 
 **What I focus on:**
-- ⚡ Performance and SEO — prerendering, Core Web Vitals, semantic markup
+- ⚡ Performance and SEO - prerendering, Core Web Vitals, semantic markup
 - 🌍 Multilingual interfaces (i18n)
 - 🎨 Turning Figma designs into responsive, pixel-perfect UI with smooth animations
 - 🤖 AI-assisted development
